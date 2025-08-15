@@ -1,0 +1,5 @@
+[
+    {"username": "vip1", "password": "123456", "server": "Server1", "expiry": "30-08-2025", "used": false},
+    {"username": "vip2", "password": "abcdef", "server": "Server2", "expiry": "30-08-2025", "used": false},
+    {"username": "vip3", "password": "ghijkl", "server": "Server3", "expiry": "30-08-2025", "used": false}
+]
